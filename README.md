@@ -1,11 +1,11 @@
 # Calculator app 
 
-Copy of android calculator functionality as close as possible, but only part with simple cacluations. Basicly you can add whole math expression by contrast to other simple calculators.
+Copy of android calculator functionality as closely as possible, but only part with simple calculations. Basically, you can add whole math expressions in contrast to other simple calculators.
 
 ![image](https://user-images.githubusercontent.com/82409487/206957904-c28fbd4e-fa01-4e6f-8a70-9cbc67bb6ee5.png)
 
 ### General info
-I built this website to get more experience with React reducer. Calculator only allowing you to put numbers and symbols that can be evaluated e.g adding mjltiple dots next to each other.
+I built this website to get more experience with React reducer. The calculator only allows you to put numbers and symbols that can be evaluated e.g You can't add multiple dots next to each other.
 
 ### Built With
 * React.js
