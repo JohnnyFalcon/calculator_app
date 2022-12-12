@@ -1,6 +1,6 @@
 # Calculator app 
 
-Copy of android calculator functionality as closely as possible, but only part with simple calculations. Basically, you can add whole math expressions in contrast to other simple calculators.
+Copy of android calculator functionality as closely as possible, but only part with simple calculations. Basically, you can add whole math expressions in contrast to other simple calculators. https://phenomenal-tiramisu-0c4aef.netlify.app
 
 ![image](https://user-images.githubusercontent.com/82409487/206957904-c28fbd4e-fa01-4e6f-8a70-9cbc67bb6ee5.png)
 
