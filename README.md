@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Calculator app 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Copy of android calculator functionality as close as possible, but only part with simple cacluations. Basicly you can add whole math expression by contrast to other simple calculators.
+
+![image](https://user-images.githubusercontent.com/82409487/206957904-c28fbd4e-fa01-4e6f-8a70-9cbc67bb6ee5.png)
+
+### General info
+I built this website to get more experience with React reducer. Calculator only allowing you to put numbers and symbols that can be evaluated e.g adding mjltiple dots next to each other.
+
+### Built With
+* React.js
+* CSS
 
 ## Available Scripts
 
@@ -39,32 +48,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
